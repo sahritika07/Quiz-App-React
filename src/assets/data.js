@@ -16,12 +16,28 @@ export const data=[
         ans: 1,
     },
     {
+        question: "Which of the following is used for modular programming in Node.js?",
+        option1: "Modules",
+        option2: "Arrays",
+        option3: "Objects",
+        option4: "Loops",
+        ans: 1,
+    },
+    {
         question: "Which of the following hooks is used for managing state in functional components?",
         option1: "useState",
         option2: "useEffect",
         option3: "useRef",
         option4: "useContext",
         ans: 1,
+    },
+    {
+        question: "Which built-in method is used to parse incoming JSON requests?",
+        option1: "JSON.read()",
+        option2: "JSON.stringify()",
+        option3: "JSON.parse()",
+        option4: "JSON.convert()",
+        ans: 3,
     },
     {
         question: "How can you pass data from a parent component to a child component in React?",
@@ -32,12 +48,36 @@ export const data=[
         ans: 2,
     },
     {
+        question: "Which of the following is the default data format used by MongoDB?",
+        option1: "XML",
+        option2: "BSON",
+        option3: "CSV",
+        option4: "JSON",
+        ans: 2,
+    },
+    {
+        question: "What does the fs module in Node.js provide?",
+        option1: "File System operations",
+        option2: " HTTP requests",
+        option3: "Database management",
+        option4: "Template engine support",
+        ans: 1,
+    },
+    {
         question: "Which hook is used to perform side effects in functional components?",
         option1: "useState",
         option2: "useEffect",
         option3: "useRef",
         option4: "useReducer",
         ans: 2,
+    },
+    {
+        question: "What type of database is MongoDB?",
+        option1: "Relational",
+        option2: "Key-Value",
+        option3: "Document-oriented",
+        option4: "Column-family",
+        ans: 3,
     }
 
 ]
